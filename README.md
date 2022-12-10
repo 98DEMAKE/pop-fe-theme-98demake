@@ -13,3 +13,11 @@ Currently covers 25 PS1 games, intends to cover most popular titles. Updated act
 
 
 ![Untitled-1](https://user-images.githubusercontent.com/118309446/205892397-75c5d039-12e3-4eac-9238-4de8c6290c5e.jpg)
+
+Tools
+=====
+tools/pw.py : A python script that will show what the game will look like
+              on the XMB. When run it will open two windows, one for 4:3 and
+	      one for 16:9 aspect ratios.
+	      Example: cd data/SCUS94455
+	               python ../../tools/pw.py
