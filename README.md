@@ -4,7 +4,7 @@ A theme for POP-FE (https://github.com/sahlberg/pop-fe).
 
 Makes your PS1 games look really nice.
 
-Currently covers 25 PS1 games, intends to cover most popular titles. Updated actively.
+Currently covers around 50 PS1 games, intends to cover most popular titles. Updated actively.
 
 ![screenshot_2022_12_05_13_05_50](https://user-images.githubusercontent.com/118309446/205892216-36003652-1292-48ec-bb14-327ff672f26f.jpg)
 ![screenshot_2022_12_05_13_05_31](https://user-images.githubusercontent.com/118309446/205892262-553210e2-cbbc-4bce-8a04-12a958c4ba25.jpg)
