@@ -24,35 +24,35 @@ tools/pw.py : A python script that will show what the game will look like
 
 Game list as of 12/12/2022:
 
-Alundra<br>
-Alundra 2 - A New Legend Begins
-Ape Escape
-Azure Dreams
-Breath Of Fire IV
-Breath of Fire III
-Capcom vs. SNK - Millennium Fight 2000 Pro
-Castlevania: Symphony of the Night
-Chrono Cross
-Colin McRae Rally 2.0
-Crash Bandicoot: Warped
-Crash Team Racing
-Destruction Derby 2
-Driver
-Final Fantasy VII
-Gran Turismo 2
-Grand Theft Auto 2
-Grandia
-Legacy Of Kain - Soul Reaver
-Lunar 2 Eternal Blue Complete
-Lunar: Silver Star Story Complete
-Medal Of Honor Underground
-Metal Gear Solid
-Oddworld Abe's Exoddus
-Oddworld: Abe's Oddysee
-Resident Evil 2
-Ridge Racer Type 4
-Silent Hill
-Spyro The Dragon
+Alundra <br>
+Alundra 2 - A New Legend Begins  <br>
+Ape Escape  <br>
+Azure Dreams <br>
+Breath Of Fire IV <br>
+Breath of Fire III <br>
+Capcom vs. SNK - Millennium Fight 2000 Pro <br>
+Castlevania: Symphony of the Night <br>
+Chrono Cross <br>
+Colin McRae Rally 2.0 <br>
+Crash Bandicoot: Warped <br>
+Crash Team Racing <br>
+Destruction Derby 2 <br>
+Driver <br>
+Final Fantasy VII <br>
+Gran Turismo 2 <br>
+Grand Theft Auto 2 <br>
+Grandia <br>
+Legacy Of Kain - Soul Reaver <br>
+Lunar 2 Eternal Blue Complete <br>
+Lunar: Silver Star Story Complete <br>
+Medal Of Honor Underground <br>
+Metal Gear Solid <br>
+Oddworld Abe's Exoddus <br>
+Oddworld: Abe's Oddysee <br>
+Resident Evil 2 <br>
+Ridge Racer Type 4 <br>
+Silent Hill <br>
+Spyro The Dragon <br>
 Street Fighter Alpha 2
 Street Fighter Alpha 3
 Street Fighter Alpha: Warriors' Dreams
@@ -74,3 +74,4 @@ Wild Arms 2
 Wipeout 3
 X Men Vs. Street Fighter
 Xenogears
+ </br>
