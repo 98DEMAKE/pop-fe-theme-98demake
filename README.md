@@ -67,7 +67,7 @@ Street Fighter Alpha 3 <br>
 Street Fighter Alpha: Warriors' Dreams <br>
 Street Fighter Collection <br>
 Street Fighter Collection 2 <br>
-Street Fighter EX Plus Alpha <br> <br>
+Street Fighter EX Plus Alpha <br> 
 Street Fighter EX2 Plus <br>
 Syphon Filter <br>
 TOMBA! <br>
