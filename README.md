@@ -82,7 +82,9 @@ Folder needs to have 3 .PNG files. ICON0, PIC0, PIC1.
 
 ## ICON0 176x176.
 
-PAL covers usually look the best. Personally I've also left the upper left Playstation logo and what ever developer logos there are, intact.
+PAL covers usually look the best. Personally I've also left the upper left Playstation logo and what ever developer logos there are, intact
+
+
 ![ICON0](https://user-images.githubusercontent.com/118309446/206944230-040b51d4-a599-48ec-b3fe-a70b7a45dad1.png)
 ![ICON0x](https://user-images.githubusercontent.com/118309446/206944371-0a133870-8dc2-4faa-ab1b-a246a0fbc372.png)
 ![ICON0](https://user-images.githubusercontent.com/118309446/206947047-5d56b3e7-c902-4664-a417-026637d2f5b1.png)
