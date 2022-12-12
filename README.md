@@ -22,7 +22,16 @@ tools/pw.py : A python script that will show what the game will look like
 	      Example: cd data/SCUS94455
 	               python ../../tools/pw.py
 
-<b>Game list as of 12/12/2022:</b>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<b><h1>Game list as of 12/12/2022:</h1></b>
+<br>
+<br>
 <br>
 Alundra <br>
 Alundra 2 - A New Legend Begins  <br>
