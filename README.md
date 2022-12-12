@@ -24,7 +24,7 @@ tools/pw.py : A python script that will show what the game will look like
 
 Game list as of 12/12/2022:
 
-Alundra
+Alundra<br>
 Alundra 2 - A New Legend Begins
 Ape Escape
 Azure Dreams
