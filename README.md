@@ -1,4 +1,4 @@
-# pop-fe-theme-98demake
+# POP-FE 98DEMAKE
 
 A theme for POP-FE (https://github.com/sahlberg/pop-fe).
 
