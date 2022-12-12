@@ -80,6 +80,8 @@ File structure is data/SLUS01476
 
 Folder needs to have 3 .PNG files. ICON0, PIC0, PIC1.
 
+(preferably via pull request, or alternatively to 98demake@gmail.com with "PS1 PIX" title)
+
 ## ICON0 176x176.
 
 PAL covers usually look the best. Personally I've also left the upper left Playstation logo and what ever developer logos there are, intact
