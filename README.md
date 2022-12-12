@@ -2,7 +2,7 @@
 
 A theme for POP-FE (https://github.com/sahlberg/pop-fe).
 
-Hand curated pictures to make your PS1 games look really nice in XMB. 
+Hand curated graphics to make your PS1 games look really nice in XMB. 
 
 Currently covers around 50 PS1 games, intends to cover most popular titles. Updated actively.
 
