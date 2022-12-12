@@ -22,8 +22,8 @@ tools/pw.py : A python script that will show what the game will look like
 	      Example: cd data/SCUS94455
 	               python ../../tools/pw.py
 
-Game list as of 12/12/2022:
-
+<b>Game list as of 12/12/2022:</b>
+<br>
 Alundra <br>
 Alundra 2 - A New Legend Begins  <br>
 Ape Escape  <br>
@@ -53,25 +53,25 @@ Resident Evil 2 <br>
 Ridge Racer Type 4 <br>
 Silent Hill <br>
 Spyro The Dragon <br>
-Street Fighter Alpha 2
-Street Fighter Alpha 3
-Street Fighter Alpha: Warriors' Dreams
-Street Fighter Collection
-Street Fighter Collection 2
-Street Fighter EX Plus Alpha
-Street Fighter EX2 Plus
-Syphon Filter
-TOMBA!
-Tekken 3
-Tenchu 2 Birth Of The Stealth Assassins
-Tony Hawk's Pro Skater 2
-Twisted Metal
-Twisted Metal 2
-Twisted Metal 4
-Twisted Metal III
-Vagrant Story
-Wild Arms 2
-Wipeout 3
-X Men Vs. Street Fighter
-Xenogears
- </br>
+Street Fighter Alpha 2 <br>
+Street Fighter Alpha 3 <br>
+Street Fighter Alpha: Warriors' Dreams <br>
+Street Fighter Collection <br>
+Street Fighter Collection 2 <br>
+Street Fighter EX Plus Alpha <br> <br>
+Street Fighter EX2 Plus <br>
+Syphon Filter <br>
+TOMBA! <br>
+Tekken 3 <br>
+Tenchu 2 Birth Of The Stealth Assassins <br>
+Tony Hawk's Pro Skater 2 <br>
+Twisted Metal <br>
+Twisted Metal 2 <br>
+Twisted Metal 4 <br>
+Twisted Metal III <br>
+Vagrant Story <br>
+Wild Arms 2 <br>
+Wipeout 3 <br>
+X Men Vs. Street Fighter <br>
+Xenogears <br>
+
