@@ -80,7 +80,7 @@ File structure is data/SLUS01476
 
 Folder needs to have 3 .PNG files. ICON0, PIC0, PIC1.
 
-** ICON0 176x176.**
+**ICON0 176x176.**
 
 PAL covers usually look the best. Personally I've also left the upper left Playstation logo and what ever developer logos there are, intact.
 ![ICON0](https://user-images.githubusercontent.com/118309446/206944230-040b51d4-a599-48ec-b3fe-a70b7a45dad1.png)
@@ -92,7 +92,7 @@ PAL covers usually look the best. Personally I've also left the upper left Plays
 
 You can find covers either via google, or for example at: https://psxdatacenter.com/
 
-** PIC0 is 1000x560. **
+**PIC0 is 1000x560.**
 
 In this theme, consists of a high resolution, transparent logo for the game. Again, try Google search https://www.google.com/advanced_image_search or for example https://www.mobygames.com/ or https://psxdatacenter.com/
 
@@ -102,7 +102,7 @@ Preferably with a slight drop shadow effect as demonstrated below
 Final result should look somewhat like this:
 ![PIC0x2](https://user-images.githubusercontent.com/118309446/206945101-26a54872-8aa6-4870-a5d3-e282918bc033.png)
 
-** PIC1 is 1920x1080. **
+**PIC1 is 1920x1080.**
 
 Can be anything era appropriate to the game. Magazine ads, protomotional art etc. Try Google advanced image search (https://www.google.com/advanced_image_search) at *"larger than 4 MP"*. Since we live in an era of remakes and remasters, I recommend adding the year in the search, e.g *"tenchu 2 1998"*.
 
