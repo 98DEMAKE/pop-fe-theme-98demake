@@ -26,11 +26,8 @@ tools/pw.py : A python script that will show what the game will look like
 
 <br>
 <br>
-<br>
-<br>
 
 <b><h1>Game list as of 12/12/2022:</h1></b>
-<br>
 <br>
 <br>
 Alundra <br>
