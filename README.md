@@ -19,7 +19,10 @@ tools/pw.py : A python script that will show what the game will look like
 	      one for 16:9 aspect ratios.
 	      Example: cd data/SCUS94455
 	               python ../../tools/pw.py
-
+tools/list-games.py : A python script that translates all the disc-ids in
+              'data' into the name of the corresponding game.
+	      Example: cd data
+	               python ../../tools/list-games.py
 
 
 # Want to help?
